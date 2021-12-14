@@ -1,0 +1,15 @@
+C:\source\codeworks\TheClass\Week-10\Monday\Monday\bin\Debug\net6.0\Monday.exe
+C:\source\codeworks\TheClass\Week-10\Monday\Monday\bin\Debug\net6.0\Monday.deps.json
+C:\source\codeworks\TheClass\Week-10\Monday\Monday\bin\Debug\net6.0\Monday.runtimeconfig.json
+C:\source\codeworks\TheClass\Week-10\Monday\Monday\bin\Debug\net6.0\Monday.dll
+C:\source\codeworks\TheClass\Week-10\Monday\Monday\bin\Debug\net6.0\ref\Monday.dll
+C:\source\codeworks\TheClass\Week-10\Monday\Monday\bin\Debug\net6.0\Monday.pdb
+C:\source\codeworks\TheClass\Week-10\Monday\Monday\obj\Debug\net6.0\Monday.csproj.AssemblyReference.cache
+C:\source\codeworks\TheClass\Week-10\Monday\Monday\obj\Debug\net6.0\Monday.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\TheClass\Week-10\Monday\Monday\obj\Debug\net6.0\Monday.AssemblyInfoInputs.cache
+C:\source\codeworks\TheClass\Week-10\Monday\Monday\obj\Debug\net6.0\Monday.AssemblyInfo.cs
+C:\source\codeworks\TheClass\Week-10\Monday\Monday\obj\Debug\net6.0\Monday.csproj.CoreCompileInputs.cache
+C:\source\codeworks\TheClass\Week-10\Monday\Monday\obj\Debug\net6.0\Monday.dll
+C:\source\codeworks\TheClass\Week-10\Monday\Monday\obj\Debug\net6.0\ref\Monday.dll
+C:\source\codeworks\TheClass\Week-10\Monday\Monday\obj\Debug\net6.0\Monday.pdb
+C:\source\codeworks\TheClass\Week-10\Monday\Monday\obj\Debug\net6.0\Monday.genruntimeconfig.cache
